@@ -69,3 +69,5 @@ jobs:
           git branch -D release
           git branch -m release
           git push -f origin release
+
+# fork build test
